@@ -1,0 +1,52 @@
+title,year,genres,keywords,cast,director,overview
+The Matrix,1999,Action|Sci-Fi,simulation|hacker|dystopia|artificial intelligence,Keanu Reeves|Laurence Fishburne|Carrie-Anne Moss,Lana Wachowski,A hacker discovers reality is a simulation and joins a rebellion against machines.
+Inception,2010,Action|Sci-Fi|Thriller,dream|heist|subconscious|mind,Leonardo DiCaprio|Joseph Gordon-Levitt|Elliot Page,Christopher Nolan,A thief who steals secrets through dreams is given the task of planting an idea in a target's mind.
+Interstellar,2014,Adventure|Drama|Sci-Fi,space|wormhole|time|survival,Matthew McConaughey|Anne Hathaway|Jessica Chastain,Christopher Nolan,Explorers travel through a wormhole in space to ensure humanity's survival.
+The Dark Knight,2008,Action|Crime|Drama,superhero|joker|gotham|vigilante,Christian Bale|Heath Ledger|Aaron Eckhart,Christopher Nolan,Batman faces the Joker who plunges Gotham into anarchy.
+Batman Begins,2005,Action|Crime|Drama,superhero|gotham|training|fear,Christian Bale|Michael Caine|Liam Neeson,Christopher Nolan,Bruce Wayne trains and returns to Gotham to fight corruption as Batman.
+Blade Runner 2049,2017,Drama|Sci-Fi|Thriller,replicant|dystopia|artificial intelligence|future,Ryan Gosling|Harrison Ford|Ana de Armas,Denis Villeneuve,A young blade runner uncovers a secret that could plunge society into chaos.
+Arrival,2016,Drama|Sci-Fi,aliens|language|first contact|time,Amy Adams|Jeremy Renner|Forest Whitaker,Denis Villeneuve,A linguist is recruited to communicate with alien visitors.
+Dune,2021,Adventure|Drama|Sci-Fi,desert|prophecy|empire|spice,Timothee Chalamet|Zendaya|Rebecca Ferguson,Denis Villeneuve,A noble family becomes embroiled in a war over the desert planet Arrakis.
+Gravity,2013,Drama|Sci-Fi|Thriller,space|survival|astronaut|disaster,Sandra Bullock|George Clooney,Alfonso Cuaron,Two astronauts fight to survive after debris destroys their shuttle.
+The Martian,2015,Adventure|Drama|Sci-Fi,mars|survival|astronaut|science,Matt Damon|Jessica Chastain|Jeff Daniels,Ridley Scott,An astronaut stranded on Mars must find a way to survive until rescue.
+Alien,1979,Horror|Sci-Fi,space|creature|survival|crew,Sigourney Weaver|Tom Skerritt|John Hurt,Ridley Scott,The crew of a spaceship encounters a deadly lifeform.
+Gladiator,2000,Action|Adventure|Drama,rome|revenge|arena|emperor,Russell Crowe|Joaquin Phoenix|Connie Nielsen,Ridley Scott,A betrayed Roman general becomes a gladiator seeking revenge.
+The Godfather,1972,Crime|Drama,mafia|family|power|revenge,Marlon Brando|Al Pacino|James Caan,Francis Ford Coppola,The aging patriarch of a crime dynasty transfers control to his reluctant son.
+The Godfather Part II,1974,Crime|Drama,mafia|family|power|immigrant,Al Pacino|Robert De Niro|Diane Keaton,Francis Ford Coppola,The early life of Vito Corleone and Michael's rise as head of the family.
+Goodfellas,1990,Biography|Crime|Drama,mafia|gangster|loyalty|betrayal,Robert De Niro|Ray Liotta|Joe Pesci,Martin Scorsese,The story of Henry Hill and his life in the mob.
+The Departed,2006,Crime|Drama|Thriller,undercover|mafia|police|betrayal,Leonardo DiCaprio|Matt Damon|Jack Nicholson,Martin Scorsese,An undercover cop and a mole in the police try to identify each other.
+Pulp Fiction,1994,Crime|Drama,hitman|nonlinear|gangster|briefcase,John Travolta|Samuel L. Jackson|Uma Thurman,Quentin Tarantino,The lives of two hitmen and a boxer intertwine in tales of violence and redemption.
+Django Unchained,2012,Drama|Western,slavery|revenge|bounty hunter|south,Jamie Foxx|Christoph Waltz|Leonardo DiCaprio,Quentin Tarantino,A freed slave sets out to rescue his wife from a brutal plantation owner.
+Toy Story,1995,Animation|Adventure|Comedy,toys|friendship|cowboy|childhood,Tom Hanks|Tim Allen|Don Rickles,John Lasseter,A cowboy doll is threatened when a new spaceman toy arrives.
+Finding Nemo,2003,Animation|Adventure|Comedy,ocean|fish|father|journey,Albert Brooks|Ellen DeGeneres|Alexander Gould,Andrew Stanton,A clownfish searches the ocean for his missing son.
+Up,2009,Animation|Adventure|Comedy,balloons|elderly|adventure|friendship,Ed Asner|Jordan Nagai|Christopher Plummer,Pete Docter,An elderly man flies his house to South America with a young stowaway.
+Inside Out,2015,Animation|Adventure|Comedy,emotions|childhood|memory|mind,Amy Poehler|Phyllis Smith|Bill Hader,Pete Docter,A girl's emotions guide her through a difficult move to a new city.
+Spirited Away,2001,Animation|Adventure|Fantasy,spirits|bathhouse|witch|journey,Rumi Hiiragi|Miyu Irino,Hayao Miyazaki,A girl wanders into a world of spirits and must save her parents.
+The Shawshank Redemption,1994,Drama,prison|hope|friendship|escape,Tim Robbins|Morgan Freeman|Bob Gunton,Frank Darabont,Two imprisoned men bond over years finding solace and redemption.
+Forrest Gump,1994,Comedy|Drama|Romance,history|friendship|love|simple man,Tom Hanks|Robin Wright|Gary Sinise,Robert Zemeckis,A kind man witnesses and influences several decades of American history.
+Back to the Future,1985,Adventure|Comedy|Sci-Fi,time travel|teenager|inventor|past,Michael J. Fox|Christopher Lloyd|Lea Thompson,Robert Zemeckis,A teenager travels to 1955 in a time machine built by an eccentric scientist.
+Jurassic Park,1993,Adventure|Sci-Fi|Thriller,dinosaurs|island|genetics|theme park,Sam Neill|Laura Dern|Jeff Goldblum,Steven Spielberg,A theme park of cloned dinosaurs turns deadly when the security fails.
+Jaws,1975,Adventure|Thriller,shark|beach|hunt|summer,Roy Scheider|Robert Shaw|Richard Dreyfuss,Steven Spielberg,A police chief hunts a great white shark terrorizing a beach town.
+Schindler's List,1993,Biography|Drama|History,holocaust|war|rescue|world war ii,Liam Neeson|Ralph Fiennes|Ben Kingsley,Steven Spielberg,A businessman saves over a thousand Jewish refugees during the Holocaust.
+Saving Private Ryan,1998,Drama|War,world war ii|soldiers|rescue|d-day,Tom Hanks|Matt Damon|Tom Sizemore,Steven Spielberg,Soldiers search for a paratrooper whose brothers have been killed in action.
+Titanic,1997,Drama|Romance,ship|love|disaster|class,Leonardo DiCaprio|Kate Winslet|Billy Zane,James Cameron,A young couple falls in love aboard the doomed ocean liner.
+Avatar,2009,Action|Adventure|Sci-Fi,alien planet|marines|nature|resistance,Sam Worthington|Zoe Saldana|Sigourney Weaver,James Cameron,A marine on an alien world becomes torn between orders and protecting a native people.
+Terminator 2: Judgment Day,1991,Action|Sci-Fi,cyborg|future|artificial intelligence|time travel,Arnold Schwarzenegger|Linda Hamilton|Edward Furlong,James Cameron,A cyborg protects a boy from a more advanced killing machine.
+Fight Club,1999,Drama,insomnia|underground|identity|rebellion,Brad Pitt|Edward Norton|Helena Bonham Carter,David Fincher,An insomniac and a soap salesman form an underground fight club.
+Se7en,1995,Crime|Drama|Mystery,serial killer|detective|sins|investigation,Brad Pitt|Morgan Freeman|Kevin Spacey,David Fincher,Two detectives hunt a killer who uses the seven deadly sins as his motives.
+Gone Girl,2014,Drama|Mystery|Thriller,disappearance|marriage|media|secrets,Ben Affleck|Rosamund Pike|Neil Patrick Harris,David Fincher,A man becomes the prime suspect when his wife disappears.
+The Prestige,2006,Drama|Mystery|Sci-Fi,magicians|rivalry|obsession|illusion,Christian Bale|Hugh Jackman|Michael Caine,Christopher Nolan,Two rival magicians engage in a battle to create the ultimate illusion.
+Memento,2000,Mystery|Thriller,memory loss|revenge|nonlinear|investigation,Guy Pearce|Carrie-Anne Moss|Joe Pantoliano,Christopher Nolan,A man with short-term memory loss hunts for his wife's killer.
+Parasite,2019,Comedy|Drama|Thriller,class|family|con|poverty,Song Kang-ho|Choi Woo-shik|Park So-dam,Bong Joon-ho,A poor family schemes to become employed by a wealthy household.
+Get Out,2017,Horror|Mystery|Thriller,race|hypnosis|family|suspense,Daniel Kaluuya|Allison Williams|Bradley Whitford,Jordan Peele,A young man uncovers disturbing secrets when he visits his girlfriend's family.
+The Conjuring,2013,Horror|Mystery|Thriller,haunting|paranormal|demon|family,Vera Farmiga|Patrick Wilson|Lili Taylor,James Wan,Paranormal investigators help a family terrorized by a dark presence.
+A Quiet Place,2018,Drama|Horror|Sci-Fi,silence|creatures|family|survival,Emily Blunt|John Krasinski|Millicent Simmonds,John Krasinski,A family must live in silence to avoid creatures that hunt by sound.
+The Notebook,2004,Drama|Romance,love|memory|letters|summer,Ryan Gosling|Rachel McAdams|James Garner,Nick Cassavetes,A poor young man falls for a rich girl in the 1940s.
+La La Land,2016,Comedy|Drama|Music,jazz|dreams|los angeles|romance,Ryan Gosling|Emma Stone|John Legend,Damien Chazelle,A pianist and an actress fall in love while chasing their dreams in Los Angeles.
+Whiplash,2014,Drama|Music,jazz|drummer|obsession|mentor,Miles Teller|J.K. Simmons|Paul Reiser,Damien Chazelle,A young drummer is pushed to the limit by an abusive instructor.
+The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Drama|Fantasy,ring|quest|wizard|middle-earth,Elijah Wood|Ian McKellen|Viggo Mortensen,Peter Jackson,A hobbit sets out to destroy a powerful ring and save Middle-earth.
+The Hobbit: An Unexpected Journey,2012,Adventure|Fantasy,dragon|quest|wizard|middle-earth,Martin Freeman|Ian McKellen|Richard Armitage,Peter Jackson,A hobbit joins dwarves on a quest to reclaim their homeland from a dragon.
+Harry Potter and the Sorcerer's Stone,2001,Adventure|Family|Fantasy,wizard|school|magic|orphan,Daniel Radcliffe|Emma Watson|Rupert Grint,Chris Columbus,A boy discovers he is a wizard and attends a school of magic.
+Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi,post-apocalyptic|chase|desert|rebellion,Tom Hardy|Charlize Theron|Nicholas Hoult,George Miller,In a desert wasteland a woman rebels against a tyrannical ruler with the help of Max.
+Iron Man,2008,Action|Adventure|Sci-Fi,superhero|technology|billionaire|armor,Robert Downey Jr.|Gwyneth Paltrow|Jeff Bridges,Jon Favreau,A billionaire builds a high-tech suit of armor to escape captivity and fight evil.
+The Avengers,2012,Action|Adventure|Sci-Fi,superhero|team|alien invasion|shield,Robert Downey Jr.|Chris Evans|Scarlett Johansson,Joss Whedon,Earth's mightiest heroes must unite to stop an alien invasion.
